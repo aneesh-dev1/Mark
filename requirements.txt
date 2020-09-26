@@ -1,0 +1,9 @@
+pyttsx3
+datetime
+speech_recognition
+webbrowser
+smtplib
+requests
+wikipedia
+ctypes
+time
