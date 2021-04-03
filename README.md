@@ -1,4 +1,7 @@
-# Mark-AI voice Assistant
+
+![Mark](https://user-images.githubusercontent.com/71940535/113481097-486c9880-94b5-11eb-8994-60ef89f49dc6.jpg)
+
+## Mark-AI voice Assistant
 
 Step 1: Download rainmeter latest version 
 
