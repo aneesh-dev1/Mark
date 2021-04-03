@@ -6,5 +6,6 @@ Step 1: FRONTEND SETUP
 Download rainmeter 
 Install Mark.rmskin
 
-Step 4:open cmd and paste the command "pip install -r requirements.txt".     
+Step 2:
+open cmd and paste the command "pip install -r requirements.txt".     
 Run Mark.py file.
